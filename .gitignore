@@ -1,3 +1,6 @@
-./tmp/*
-./out/*
-./private/*
+/tmp/*
+!/tmp/.keep
+/out/*
+!/out/.keep
+/private/*
+!/private/.keep
