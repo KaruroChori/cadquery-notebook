@@ -1,7 +1,7 @@
-/tmp/*
-!/tmp/.keep
-/out/*
-!/out/.keep
-/private/*
-!/private/.keep
-/.ipynb_checkpoints
+tmp/
+!tmp/.keep
+out/
+out/.keep
+private/
+private/.keep
+.ipynb_checkpoints
