@@ -4,3 +4,4 @@
 !/out/.keep
 /private/*
 !/private/.keep
+/.ipynb_checkpoints
